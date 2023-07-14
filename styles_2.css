@@ -1,0 +1,98 @@
+body {
+    margin: 0px;
+    font-family: cursive;
+    text-align: center;
+}
+
+.main {
+    background-color: rgb(185, 244, 224);
+}
+
+h1 {
+    color: rgb(73, 104, 138);
+    font-size: 4rem;
+}
+
+p {
+    margin: 5px 0;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+li {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+h3 {
+    margin: 0;
+    color: #5e89bb;
+}
+
+.wd {
+    color: rgb(73, 104, 138);
+    font-size: 2rem;
+}
+
+.null_1 {
+    background-color: rgb(185, 244, 224);
+    height: 100px;
+}
+
+.Profile {
+    margin: 5% auto 0 auto;
+    height: 20%;
+    width: 20%;
+}
+
+.M1 {
+    height: 60%;
+    width: 60%;
+    margin: auto auto 0 auto;
+}
+
+.C1 {
+    height: 30%;
+    width: 30%;
+    position: absolute;
+    left: 15%;
+    top: 25%;
+}
+
+.C2 {
+    height: 30%;
+    width: 30%;
+    position: absolute;
+    top: 0%;
+    left: 54%;
+}
+
+.skill_1 {
+    margin: 10% auto 10% auto;
+    width: 70%;
+    text-align: left;
+}
+
+.skill_2 {
+    margin: 20% auto 20% auto;
+    width: 70%;
+    text-align: left;
+}
+
+h2 {
+    color: #64b3c9;
+}
+
+.img_skill_1 {
+    margin-right: 30px;
+    float: left;
+    width: 30%;
+}
+
+.img_skill_2 {
+    height: 16rem;
+    width: 4rem;
+    margin-right: 30px;
+    float: right;
+    width: 30%;
+}
